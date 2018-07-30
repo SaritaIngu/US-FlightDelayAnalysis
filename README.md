@@ -15,10 +15,9 @@ We analyzed a data set of delayed flights from 2008 in the U.S. to determine the
 
 4.  Percentage of Flights Delayed by Hour and Day: The heat map - Days Of Week + Time of Day, indicates that afternoons and evenings are relatively more delayed compared to mornings. Friday and Sunday evenings are at the peak of delays.
 
-5. Percentage of Flights Delayed by Month: light delays are maximum in the around holiday season. During Christmas and Thanksgiving, the delays could go up to 57%
-We have some outliers in the middle of February and end of March, where there are no holidays or any reason that stands out.
+5. Percentage of Flights Delayed by Month: Flight delays are maximum in around the holiday season. During Christmas and Thanksgiving, the delays could go up to 57%. We have some outliers in the middle of February and end of March, where there are no holidays or any reason that stands out.
 
-4. Delays by Airport: The bubble map showed that the airports with most amount of delays are ATL in Atlanta and ORD in Chicago. ATL had 131,613 delays which constitutes 31.75% of all flights from ATL. ORD had 125,979 delays which constitutes 35.95% of all flights from ORD. Some airports with a lower amount of delays had a higher percentage of delayed flights. For example, AKN in King Salmon had 72 delays which constitutes 62.07% of all flights from AKN.
+6. Delays by Airport: The bubble map showed that the airports with most amount of delays are ATL in Atlanta and ORD in Chicago. ATL had 131,613 delays which constitutes 31.75% of all flights from ATL. ORD had 125,979 delays which constitutes 35.95% of all flights from ORD. Some airports with a lower amount of delays had a higher percentage of delayed flights. For example, AKN in King Salmon had 72 delays which constitutes 62.07% of all flights from AKN.
 
 
 
