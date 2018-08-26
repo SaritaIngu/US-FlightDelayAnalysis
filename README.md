@@ -8,9 +8,6 @@ We analyzed a data set of delayed flights from 2008 in the U.S. to determine the
 ## Insights
 
 1. Count of All Flights vs. Delayed Flights: It is apparent from the graph of all flights vs delayed flights that there is a correlation between the two, as was expected. Surprisingly, the volatility in the delayed curve not present in the all-flights curve indicates that delayed flights is not a perfect function of the total number of flights. For example, the variance (or increases and decreases) in the delayed curve between weeks 10 and 20, 50 and 52 and to a lesser extent 36 and 40, is not reciprocated in the all-flights curve.
-<p align="center">
-  <img src="https://github.com/SaritaIngu/US-FlightDelayAnalysis/blob/master/Flight%20Delay%20Images/DelayedFlightsVsTotalFlights.png"" title="Delayed Flights Vs Total Flights">
-</p>
   
 2. Average Airline Delay Time: The major airline carriers, US Airways, United Airlines, and Southwest Airlines appear to have limited carrier-caused delay times on average. Conversely, all the carrier who shoulder the blame for the longest extended wait times are smaller airlines like Hawaii, Comair, and Atlantic Southeast. Lastly, Mesa Airlines is clearly the worst airline for those fliers who lack patience or loose schedules.
 <p align="center">
@@ -23,9 +20,6 @@ We analyzed a data set of delayed flights from 2008 in the U.S. to determine the
 </p>
 
 4.  Percentage of Flights Delayed by Hour and Day: The heat map - Days Of Week + Time of Day, indicates that afternoons and evenings are relatively more delayed compared to mornings. Friday and Sunday evenings are at the peak of delays.
-<p align="center">
-  <img src="https://github.com/SaritaIngu/US-FlightDelayAnalysis/blob/master/Flight%20Delay%20Images/FlightDelaysbyDayHour.png" title="Percentage of Flights Delayed by Hour and Day">
-</p>
 
 5. Percentage of Flights Delayed by Month: Flight delays are maximum in around the holiday season. During Christmas and Thanksgiving, the delays could go up to 57%. We have some outliers in the middle of February and end of March, where there are no holidays or any reason that stands out.
 <p align="center">
