@@ -29,7 +29,7 @@ We analyzed a data set of delayed flights from 2008 in the U.S. to determine the
 
 5. Percentage of Flights Delayed by Month: Flight delays are maximum in around the holiday season. During Christmas and Thanksgiving, the delays could go up to 57%. We have some outliers in the middle of February and end of March, where there are no holidays or any reason that stands out.
 <p align="center">
-  <img src="https://github.com/SaritaIngu/US-FlightDelayAnalysis/blob/master/FlightDelaysByMonth.png" title="Flight Delays By Month">
+  <img src="https://github.com/SaritaIngu/US-FlightDelayAnalysis/blob/master/Flight%20Delay%20Images/FlightDelaysByMonth.png" title="Flight Delays By Month">
 </p>
 
 6. Delays by Airport: The bubble map showed that the airports with most amount of delays are ATL in Atlanta and ORD in Chicago. ATL had 131,613 delays which constitutes 31.75% of all flights from ATL. ORD had 125,979 delays which constitutes 35.95% of all flights from ORD. Some airports with a lower amount of delays had a higher percentage of delayed flights. For example, AKN in King Salmon had 72 delays which constitutes 62.07% of all flights from AKN.
